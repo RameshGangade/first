@@ -1,4 +1,4 @@
 # first
-This is my first repose
+This is my first reposetoryg
 <br>
 let's go
